@@ -28,16 +28,12 @@ O projeto está dividido em dois módulos principais (Java e Python). Dentro de 
 📦 beecrowd-solutions
  ┣ 📂 Java
  ┃ ┣ 📂 1_Iniciante
- ┃ ┃ ┣ 📂 1001
- ┃ ┃ ┃ ┗ 📜 Main.java
- ┃ ┃ ┗ 📂 1002
- ┃ ┃   ┗ 📜 Main.java
+ ┃ ┃ ┃ ┗ 📜 Solucao_1000.java
+ ┃ ┃   ┗ 📜 Solucao_1001.java
  ┃ ┗ 📂 2_Ad_Hoc
  ┣ 📂 Python
  ┃ ┣ 📂 1_Iniciante
- ┃ ┃ ┣ 📂 1001
- ┃ ┃ ┃ ┗ 📜 solution.py
- ┃ ┃ ┗ 📂 1002
- ┃ ┃   ┗ 📜 solution.py
+ ┃ ┃ ┃ ┗ 📜 Solucao_1000.py
+ ┃ ┃   ┗ 📜 Solucao_1001.py
  ┃ ┗ 📂 2_Ad_Hoc
  ┗ 📜 README.md
