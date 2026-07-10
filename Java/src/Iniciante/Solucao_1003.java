@@ -1,4 +1,4 @@
-package Iniciante;
+
 import java.io.IOException;
 import java.util.Scanner;
 //lembrar de tirar colocar o Main no lugar de Solucao
