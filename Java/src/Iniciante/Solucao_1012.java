@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class Main {
+public class Solucao_1012 {
     public static double areaTriangulo(double base, double altura) {
         return (base * altura) / 2;
     }
